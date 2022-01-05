@@ -1,0 +1,222 @@
+E:\I LEARN & SHARE\Student Monitoring System\bin\Debug\Student Monitoring System.exe.config
+E:\I LEARN & SHARE\Student Monitoring System\bin\Debug\Student Monitoring System.exe
+E:\I LEARN & SHARE\Student Monitoring System\bin\Debug\Student Monitoring System.pdb
+E:\I LEARN & SHARE\Student Monitoring System\bin\Debug\Guna.UI2.dll
+E:\I LEARN & SHARE\Student Monitoring System\obj\Debug\Student_Monitoring_System.Administrator.AdminForm.resources
+E:\I LEARN & SHARE\Student Monitoring System\obj\Debug\Student_Monitoring_System.Properties.Resources.resources
+E:\I LEARN & SHARE\Student Monitoring System\obj\Debug\Student Monitoring System.csproj.GenerateResource.cache
+E:\I LEARN & SHARE\Student Monitoring System\obj\Debug\Student Monitoring System.csproj.CoreCompileInputs.cache
+E:\I LEARN & SHARE\Student Monitoring System\obj\Debug\Student Monitoring System.csproj.CopyComplete
+E:\I LEARN & SHARE\Student Monitoring System\obj\Debug\Student Monitoring System.exe
+E:\I LEARN & SHARE\Student Monitoring System\obj\Debug\Student Monitoring System.pdb
+E:\I LEARN & SHARE\Student Monitoring System\obj\Debug\Student_Monitoring_System.Administrator.AdminOverview.resources
+E:\I LEARN & SHARE\Student Monitoring System\obj\Debug\Student_Monitoring_System.Administrator.AdminStudents.resources
+E:\I LEARN & SHARE\Student Monitoring System\obj\Debug\Student_Monitoring_System.Alerts.AlertForm.resources
+E:\I LEARN & SHARE\Student Monitoring System\obj\Debug\Student_Monitoring_System.Alerts.ConfirmAlert.resources
+E:\I LEARN & SHARE\Student Monitoring System\obj\Debug\Student_Monitoring_System.Alerts.PasswordAlert.resources
+E:\I LEARN & SHARE\Student Monitoring System\bin\Debug\MySql.Data.dll
+E:\I LEARN & SHARE\Student Monitoring System\bin\Debug\Google.Protobuf.dll
+E:\I LEARN & SHARE\Student Monitoring System\bin\Debug\Zstandard.Net.dll
+E:\I LEARN & SHARE\Student Monitoring System\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\I LEARN & SHARE\Student Monitoring System\bin\Debug\BouncyCastle.Crypto.dll
+E:\I LEARN & SHARE\Student Monitoring System\bin\Debug\Ubiety.Dns.Core.dll
+E:\I LEARN & SHARE\Student Monitoring System\bin\Debug\Renci.SshNet.dll
+E:\I LEARN & SHARE\Student Monitoring System\bin\Debug\System.Memory.dll
+E:\I LEARN & SHARE\Student Monitoring System\bin\Debug\System.Buffers.dll
+E:\I LEARN & SHARE\Student Monitoring System\bin\Debug\K4os.Compression.LZ4.dll
+E:\I LEARN & SHARE\Student Monitoring System\bin\Debug\K4os.Hash.xxHash.dll
+E:\I LEARN & SHARE\Student Monitoring System\bin\Debug\System.Numerics.Vectors.dll
+E:\I LEARN & SHARE\Student Monitoring System\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\I LEARN & SHARE\Student Monitoring System\bin\Debug\MySql.Data.xml
+E:\I LEARN & SHARE\Student Monitoring System\obj\Debug\Student Monitoring System.exe.config
+E:\I LEARN & SHARE\Student Monitoring System\obj\Debug\Student_Monitoring_System.Loading.MainLoadingScreen.resources
+E:\I LEARN & SHARE\Student Monitoring System\obj\Debug\Student_Monitoring_System.Loading.MainSplashScreen.resources
+E:\I LEARN & SHARE\Student Monitoring System\obj\Debug\Student_Monitoring_System.LoginForm.resources
+E:\I LEARN & SHARE\Student Monitoring System\obj\Debug\Student_Monitoring_System.Administrator.Students.AddStudent.resources
+E:\I LEARN & SHARE\Student Monitoring System\obj\Debug\Student_Monitoring_System.Administrator.Students.SearchStudent.resources
+E:\I LEARN & SHARE\Student Monitoring System\obj\Debug\Student_Monitoring_System.Administrator.Students.EditStudent.resources
+E:\I LEARN & SHARE\Student Monitoring System\obj\Debug\Student_Monitoring_System.Administrator.Posts.PostControl.resources
+E:\I LEARN & SHARE\Student Monitoring System\obj\Debug\Student_Monitoring_System.Administrator.Attendance.AttendanceForm.resources
+E:\I LEARN & SHARE\Student Monitoring System\obj\Debug\Student_Monitoring_System.Administrator.Students.ViewStudents.resources
+E:\I LEARN & SHARE\Student Monitoring System\obj\Debug\Student_Monitoring_System.Administrator.Students.DisplayStudent.resources
+E:\I LEARN & SHARE\Student Monitoring System\obj\Debug\Student_Monitoring_System.Administrator.Attendance.AttendanceInfo.resources
+E:\I LEARN & SHARE\Student Monitoring System\obj\Debug\Student_Monitoring_System.Administrator.Attendance.Logs.resources
+E:\I LEARN & SHARE\Student Monitoring System\obj\Debug\Student_Monitoring_System.Administrator.Attendance.LogsInfo.resources
+E:\I LEARN & SHARE\Student Monitoring System\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\I LEARN & SHARE\Student Monitoring System\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\I LEARN & SHARE\Student Monitoring System\bin\Debug\CrystalDecisions.Shared.dll
+E:\I LEARN & SHARE\Student Monitoring System\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\I LEARN & SHARE\Student Monitoring System\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\I LEARN & SHARE\Student Monitoring System\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\I LEARN & SHARE\Student Monitoring System\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\I LEARN & SHARE\Student Monitoring System\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\I LEARN & SHARE\Student Monitoring System\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\I LEARN & SHARE\Student Monitoring System\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\I LEARN & SHARE\Student Monitoring System\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\I LEARN & SHARE\Student Monitoring System\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\I LEARN & SHARE\Student Monitoring System\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\I LEARN & SHARE\Student Monitoring System\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\I LEARN & SHARE\Student Monitoring System\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\I LEARN & SHARE\Student Monitoring System\bin\Debug\stdole.dll
+E:\I LEARN & SHARE\Student Monitoring System\bin\Debug\AxShockwaveFlashObjects.dll
+E:\I LEARN & SHARE\Student Monitoring System\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\I LEARN & SHARE\Student Monitoring System\bin\Debug\ShockwaveFlashObjects.dll
+E:\I LEARN & SHARE\Student Monitoring System\obj\Debug\Student_Monitoring_System.Administrator.MyReports.DisplayStrand.resources
+E:\I LEARN & SHARE\Student Monitoring System\obj\Debug\Student_Monitoring_System.Administrator.MyReports.DisplayGrade.resources
+E:\I LEARN & SHARE\Student Monitoring System\obj\Debug\Student_Monitoring_System.Administrator.AdminReports.resources
+E:\I LEARN & SHARE\Student Monitoring System\obj\Debug\Student_Monitoring_System.Administrator.MyReports.DisplayAllAttendance.resources
+E:\I LEARN & SHARE\Student Monitoring System\obj\Debug\Student_Monitoring_System.Administrator.MyReports.DisplayGradeAttendance.resources
+E:\I LEARN & SHARE\Student Monitoring System\obj\Debug\Student_Monitoring_System.Administrator.MyReports.DisplayStrandAttendance.resources
+E:\I LEARN & SHARE\Student Monitoring System\obj\Debug\Student Monitoring System.csprojAssemblyReference.cache
+E:\I LEARN & SHARE\Student Monitoring System\obj\Debug\Student_Monitoring_System.Administrator.AdminSettings.resources
+E:\I LEARN & SHARE\Student Monitoring System\obj\Debug\Student_Monitoring_System.Administrator.AdminEditDetails.resources
+E:\I LEARN & SHARE\Student Monitoring System\obj\Debug\Student_Monitoring_System.Administrator.Posts.ForgotPassword.resources
+E:\I LEARN & SHARE\Student Monitoring System\obj\Debug\Student_Monitoring_System.Developer.MainDeveloper.resources
+E:\I LEARN & SHARE\Student Monitoring System\obj\Debug\Student_Monitoring_System.Developer.Search.SearchUser.resources
+E:\I LEARN & SHARE\Student Monitoring System\obj\Debug\Student_Monitoring_System.Developer.AddAdmin.resources
+G:\Student Monitoring System\bin\Debug\Student Monitoring System.exe.config
+G:\Student Monitoring System\bin\Debug\Student Monitoring System.exe
+G:\Student Monitoring System\bin\Debug\Guna.UI2.dll
+G:\Student Monitoring System\bin\Debug\ShockwaveFlashObjects.dll
+G:\Student Monitoring System\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+G:\Student Monitoring System\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+G:\Student Monitoring System\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+G:\Student Monitoring System\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+G:\Student Monitoring System\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+G:\Student Monitoring System\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+G:\Student Monitoring System\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+G:\Student Monitoring System\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+G:\Student Monitoring System\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+G:\Student Monitoring System\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+G:\Student Monitoring System\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+G:\Student Monitoring System\bin\Debug\Google.Protobuf.dll
+G:\Student Monitoring System\bin\Debug\Zstandard.Net.dll
+G:\Student Monitoring System\bin\Debug\K4os.Compression.LZ4.Streams.dll
+G:\Student Monitoring System\bin\Debug\BouncyCastle.Crypto.dll
+G:\Student Monitoring System\bin\Debug\Ubiety.Dns.Core.dll
+G:\Student Monitoring System\bin\Debug\Renci.SshNet.dll
+G:\Student Monitoring System\bin\Debug\stdole.dll
+G:\Student Monitoring System\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+G:\Student Monitoring System\bin\Debug\System.Memory.dll
+G:\Student Monitoring System\bin\Debug\System.Buffers.dll
+G:\Student Monitoring System\bin\Debug\K4os.Compression.LZ4.dll
+G:\Student Monitoring System\bin\Debug\K4os.Hash.xxHash.dll
+G:\Student Monitoring System\bin\Debug\System.Numerics.Vectors.dll
+G:\Student Monitoring System\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+G:\Student Monitoring System\bin\Debug\MySql.Data.xml
+G:\Student Monitoring System\obj\Debug\Student Monitoring System.csprojAssemblyReference.cache
+G:\Student Monitoring System\obj\Debug\Student Monitoring System.exe.config
+G:\Student Monitoring System\obj\Debug\Student_Monitoring_System.Administrator.AdminEditDetails.resources
+G:\Student Monitoring System\obj\Debug\Student_Monitoring_System.Administrator.AdminForm.resources
+G:\Student Monitoring System\obj\Debug\Student_Monitoring_System.Administrator.AdminOverview.resources
+G:\Student Monitoring System\obj\Debug\Student_Monitoring_System.Administrator.AdminReports.resources
+G:\Student Monitoring System\obj\Debug\Student_Monitoring_System.Administrator.AdminSettings.resources
+G:\Student Monitoring System\obj\Debug\Student_Monitoring_System.Administrator.AdminStudents.resources
+G:\Student Monitoring System\obj\Debug\Student_Monitoring_System.Administrator.Attendance.AttendanceForm.resources
+G:\Student Monitoring System\obj\Debug\Student_Monitoring_System.Administrator.Attendance.AttendanceInfo.resources
+G:\Student Monitoring System\obj\Debug\Student_Monitoring_System.Administrator.Attendance.Logs.resources
+G:\Student Monitoring System\obj\Debug\Student_Monitoring_System.Administrator.Attendance.LogsInfo.resources
+G:\Student Monitoring System\obj\Debug\Student_Monitoring_System.Administrator.MyReports.DisplayAllAttendance.resources
+G:\Student Monitoring System\obj\Debug\Student_Monitoring_System.Administrator.MyReports.DisplayGrade.resources
+G:\Student Monitoring System\obj\Debug\Student_Monitoring_System.Administrator.MyReports.DisplayGradeAttendance.resources
+G:\Student Monitoring System\obj\Debug\Student_Monitoring_System.Administrator.MyReports.DisplayStrand.resources
+G:\Student Monitoring System\obj\Debug\Student_Monitoring_System.Administrator.MyReports.DisplayStrandAttendance.resources
+G:\Student Monitoring System\obj\Debug\Student_Monitoring_System.Administrator.Posts.ForgotPassword.resources
+G:\Student Monitoring System\obj\Debug\Student_Monitoring_System.Administrator.Posts.PostControl.resources
+G:\Student Monitoring System\obj\Debug\Student_Monitoring_System.Administrator.Students.AddStudent.resources
+G:\Student Monitoring System\obj\Debug\Student_Monitoring_System.Administrator.Students.DisplayStudent.resources
+G:\Student Monitoring System\obj\Debug\Student_Monitoring_System.Administrator.Students.EditStudent.resources
+G:\Student Monitoring System\obj\Debug\Student_Monitoring_System.Administrator.Students.SearchStudent.resources
+G:\Student Monitoring System\obj\Debug\Student_Monitoring_System.Administrator.Students.ViewStudents.resources
+G:\Student Monitoring System\obj\Debug\Student_Monitoring_System.Alerts.AlertForm.resources
+G:\Student Monitoring System\obj\Debug\Student_Monitoring_System.Alerts.ConfirmAlert.resources
+G:\Student Monitoring System\obj\Debug\Student_Monitoring_System.Alerts.PasswordAlert.resources
+G:\Student Monitoring System\obj\Debug\Student_Monitoring_System.Developer.AddAdmin.resources
+G:\Student Monitoring System\obj\Debug\Student_Monitoring_System.Developer.MainDeveloper.resources
+G:\Student Monitoring System\obj\Debug\Student_Monitoring_System.Developer.Search.SearchUser.resources
+G:\Student Monitoring System\obj\Debug\Student_Monitoring_System.LoginForm.resources
+G:\Student Monitoring System\obj\Debug\Student_Monitoring_System.Loading.MainLoadingScreen.resources
+G:\Student Monitoring System\obj\Debug\Student_Monitoring_System.Loading.MainSplashScreen.resources
+G:\Student Monitoring System\obj\Debug\Student_Monitoring_System.Properties.Resources.resources
+G:\Student Monitoring System\obj\Debug\Student Monitoring System.csproj.GenerateResource.cache
+G:\Student Monitoring System\obj\Debug\Student Monitoring System.csproj.CoreCompileInputs.cache
+G:\Student Monitoring System\obj\Debug\Student Monitoring System.csproj.CopyComplete
+G:\Student Monitoring System\obj\Debug\Student Monitoring System.exe
+G:\Student Monitoring System\obj\Debug\Student Monitoring System.pdb
+G:\Student Monitoring System\bin\Debug\Student Monitoring System.pdb
+G:\Student Monitoring System\bin\Debug\AxShockwaveFlashObjects.dll
+G:\Student Monitoring System\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+G:\Student Monitoring System\bin\Debug\CrystalDecisions.ReportSource.dll
+G:\Student Monitoring System\bin\Debug\CrystalDecisions.Shared.dll
+G:\Student Monitoring System\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\Programming\C#\Student Monitoring System\bin\Debug\Student Monitoring System.exe.config
+E:\Programming\C#\Student Monitoring System\bin\Debug\Student Monitoring System.exe
+E:\Programming\C#\Student Monitoring System\bin\Debug\Student Monitoring System.pdb
+E:\Programming\C#\Student Monitoring System\bin\Debug\Guna.UI2.dll
+E:\Programming\C#\Student Monitoring System\bin\Debug\ShockwaveFlashObjects.dll
+E:\Programming\C#\Student Monitoring System\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\Programming\C#\Student Monitoring System\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\Programming\C#\Student Monitoring System\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\Programming\C#\Student Monitoring System\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\Programming\C#\Student Monitoring System\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\Programming\C#\Student Monitoring System\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\Programming\C#\Student Monitoring System\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\Programming\C#\Student Monitoring System\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\Programming\C#\Student Monitoring System\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\Programming\C#\Student Monitoring System\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\Programming\C#\Student Monitoring System\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\Programming\C#\Student Monitoring System\bin\Debug\Google.Protobuf.dll
+E:\Programming\C#\Student Monitoring System\bin\Debug\Zstandard.Net.dll
+E:\Programming\C#\Student Monitoring System\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\Programming\C#\Student Monitoring System\bin\Debug\BouncyCastle.Crypto.dll
+E:\Programming\C#\Student Monitoring System\bin\Debug\Ubiety.Dns.Core.dll
+E:\Programming\C#\Student Monitoring System\bin\Debug\Renci.SshNet.dll
+E:\Programming\C#\Student Monitoring System\bin\Debug\stdole.dll
+E:\Programming\C#\Student Monitoring System\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\Programming\C#\Student Monitoring System\bin\Debug\System.Memory.dll
+E:\Programming\C#\Student Monitoring System\bin\Debug\System.Buffers.dll
+E:\Programming\C#\Student Monitoring System\bin\Debug\K4os.Compression.LZ4.dll
+E:\Programming\C#\Student Monitoring System\bin\Debug\K4os.Hash.xxHash.dll
+E:\Programming\C#\Student Monitoring System\bin\Debug\System.Numerics.Vectors.dll
+E:\Programming\C#\Student Monitoring System\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Programming\C#\Student Monitoring System\bin\Debug\MySql.Data.xml
+E:\Programming\C#\Student Monitoring System\obj\Debug\Student Monitoring System.csproj.AssemblyReference.cache
+E:\Programming\C#\Student Monitoring System\obj\Debug\Student Monitoring System.exe.config
+E:\Programming\C#\Student Monitoring System\obj\Debug\Student_Monitoring_System.Administrator.AdminEditDetails.resources
+E:\Programming\C#\Student Monitoring System\obj\Debug\Student_Monitoring_System.Administrator.AdminForm.resources
+E:\Programming\C#\Student Monitoring System\obj\Debug\Student_Monitoring_System.Administrator.AdminOverview.resources
+E:\Programming\C#\Student Monitoring System\obj\Debug\Student_Monitoring_System.Administrator.AdminReports.resources
+E:\Programming\C#\Student Monitoring System\obj\Debug\Student_Monitoring_System.Administrator.AdminSettings.resources
+E:\Programming\C#\Student Monitoring System\obj\Debug\Student_Monitoring_System.Administrator.AdminStudents.resources
+E:\Programming\C#\Student Monitoring System\obj\Debug\Student_Monitoring_System.Administrator.Attendance.AttendanceForm.resources
+E:\Programming\C#\Student Monitoring System\obj\Debug\Student_Monitoring_System.Administrator.Attendance.AttendanceInfo.resources
+E:\Programming\C#\Student Monitoring System\obj\Debug\Student_Monitoring_System.Administrator.Attendance.Logs.resources
+E:\Programming\C#\Student Monitoring System\obj\Debug\Student_Monitoring_System.Administrator.Attendance.LogsInfo.resources
+E:\Programming\C#\Student Monitoring System\obj\Debug\Student_Monitoring_System.Administrator.MyReports.DisplayAllAttendance.resources
+E:\Programming\C#\Student Monitoring System\obj\Debug\Student_Monitoring_System.Administrator.MyReports.DisplayGrade.resources
+E:\Programming\C#\Student Monitoring System\obj\Debug\Student_Monitoring_System.Administrator.MyReports.DisplayGradeAttendance.resources
+E:\Programming\C#\Student Monitoring System\obj\Debug\Student_Monitoring_System.Administrator.MyReports.DisplayStrand.resources
+E:\Programming\C#\Student Monitoring System\obj\Debug\Student_Monitoring_System.Administrator.MyReports.DisplayStrandAttendance.resources
+E:\Programming\C#\Student Monitoring System\obj\Debug\Student_Monitoring_System.Administrator.Posts.ForgotPassword.resources
+E:\Programming\C#\Student Monitoring System\obj\Debug\Student_Monitoring_System.Administrator.Posts.PostControl.resources
+E:\Programming\C#\Student Monitoring System\obj\Debug\Student_Monitoring_System.Administrator.Students.AddStudent.resources
+E:\Programming\C#\Student Monitoring System\obj\Debug\Student_Monitoring_System.Administrator.Students.DisplayStudent.resources
+E:\Programming\C#\Student Monitoring System\obj\Debug\Student_Monitoring_System.Administrator.Students.EditStudent.resources
+E:\Programming\C#\Student Monitoring System\obj\Debug\Student_Monitoring_System.Administrator.Students.SearchStudent.resources
+E:\Programming\C#\Student Monitoring System\obj\Debug\Student_Monitoring_System.Administrator.Students.ViewStudents.resources
+E:\Programming\C#\Student Monitoring System\obj\Debug\Student_Monitoring_System.Alerts.AlertForm.resources
+E:\Programming\C#\Student Monitoring System\obj\Debug\Student_Monitoring_System.Alerts.ConfirmAlert.resources
+E:\Programming\C#\Student Monitoring System\obj\Debug\Student_Monitoring_System.Alerts.PasswordAlert.resources
+E:\Programming\C#\Student Monitoring System\obj\Debug\Student_Monitoring_System.Developer.AddAdmin.resources
+E:\Programming\C#\Student Monitoring System\obj\Debug\Student_Monitoring_System.Developer.MainDeveloper.resources
+E:\Programming\C#\Student Monitoring System\obj\Debug\Student_Monitoring_System.Developer.Search.SearchUser.resources
+E:\Programming\C#\Student Monitoring System\obj\Debug\Student_Monitoring_System.LoginForm.resources
+E:\Programming\C#\Student Monitoring System\obj\Debug\Student_Monitoring_System.Loading.MainLoadingScreen.resources
+E:\Programming\C#\Student Monitoring System\obj\Debug\Student_Monitoring_System.Loading.MainSplashScreen.resources
+E:\Programming\C#\Student Monitoring System\obj\Debug\Student_Monitoring_System.Properties.Resources.resources
+E:\Programming\C#\Student Monitoring System\obj\Debug\Student Monitoring System.csproj.GenerateResource.cache
+E:\Programming\C#\Student Monitoring System\obj\Debug\Student Monitoring System.csproj.CoreCompileInputs.cache
+E:\Programming\C#\Student Monitoring System\obj\Debug\Student Monitoring System.exe
+E:\Programming\C#\Student Monitoring System\obj\Debug\Student Monitoring System.pdb
+E:\Programming\C#\Student Monitoring System\obj\Debug\Student Monitoring System.csproj.SuggestedBindingRedirects.cache
+E:\Programming\C#\Student Monitoring System\obj\Debug\Student Monitoring System.csproj.CopyComplete
